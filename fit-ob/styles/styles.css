@@ -1,0 +1,31 @@
+.jumbotron {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+}
+
+.center {
+  text-align: center;
+  margin: auto;
+}
+
+.card-img-top {
+  width: 255px;
+}
+
+.bg-light {
+  color: #EDEDED;
+}
+
+.headshot {
+  height: 255px;
+  width: 255px;
+  border-radius: 100%;
+}
+
+#Pricing ul {
+  list-style-type: none;
+}
+
+i {
+  padding: 25px 25px;
+}

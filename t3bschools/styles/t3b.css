@@ -1,0 +1,43 @@
+.navbar-nav {
+  position: absolute;
+  right: 25px;
+}
+
+.nav-item {
+  margin: auto 15px;
+}
+
+#About {
+  color: black;
+  background-color: #E26A2C;
+  padding: 25px
+}
+
+.cta {
+  text-align: center;
+  line-height: 2.5;
+  margin-bottom: 75px;
+}
+
+.top-about {
+  padding: 150px 50px;
+}
+
+#Pricing {
+  background-color: #FFD07F;
+  padding: 75px 125px;
+}
+
+.pricing-column {
+  text-align: center;
+  line-height: 2;
+}
+
+#footer {
+  text-align: center;
+  margin: 250px auto 100px;
+}
+
+.social-icon {
+  margin: 20px 10px;
+}
